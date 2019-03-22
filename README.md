@@ -64,3 +64,6 @@
 
 - [ ] *Type Checkers :: TypeScript*
   - https://codeburst.io/understanding-typescript-basics-e003dbad2191
+
+- [ ] *Accessible Web Design*
+  -  https://www.w3.org/WAI/fundamentals/accessibility-intro/
